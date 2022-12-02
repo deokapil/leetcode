@@ -1,0 +1,122 @@
+
+Primitive Types
+01- Computing the parity of a word
+02- Swap bits
+03- Reverse bits
+04- Find a closest integer with the same weight
+05- Compute x X y without arithmetical operators
+06- Compute x/y
+07- Compute x^2
+08- Reverse digits
+09- Check if a decimal integer is a palindrome
+10- Generate uniform random numbers
+11- Rectangle intersection
+
+Arrays
+01- The Dutch national flag problem
+02- Increment an arbitrary-precision integer
+03- Multiply two arbitrary-precision integers
+04- Advancing through an array
+05- Delete duplicates from a sorted array 
+06- Buy and sell a stock once
+07- Buy and sell a stock twice 
+08- Computing an altemation
+09- Enumerate all primes to n
+10- Permute the elements of an array .
+11- Compute the next permutation
+12- Sample offline data
+13- Sample online data
+14- Compute a random permutation
+15- Compute a random subset
+16- Generate nonuniform random numbers
+17- The Sudoku checker problem
+18- Compute the spiral ordering of a2D affay
+19- Rotate a2D array
+20- Compute rows in Pascal's Triangle
+
+Strings
+
+01- Interconvert strings and integers
+02- Base conversion
+03- Compute the spreadsheet column encoding
+04- Replace and remove 71
+05- Testpalindromicity
+06- Reverse all the words in a sentence
+07- Compute all mnemonics for a phone number
+08- The look-and-say problem
+09- Convert from Roman to decimal
+10- Compute all valid IP addresses
+11- Write a string sinusoidallY
+12- Implement run-length encoding
+13- Find the first occurrence of a substring
+
+
+Heaps
+
+01- Merge sorted files
+02- Sort an increasing-decreasing array
+03- Sort an almost-sorted array
+04- Compute the k closest stars
+05- Compute the median of online data .
+06- Compute the k largest elements in a max-heap
+
+
+Search
+
+Search a sorted array for first occurrence ofk
+Search a sorted array for entry equal to its index
+Search a cyclically sorted array
+Compute the integer square root
+Compute the real square root
+Search in a 2D sorted affay .
+Find the min and max simultaneously
+Find the kth largest element
+Find the missing IP address
+Find the duplicate and missing elements
+
+Hash Tables
+
+Test for palindromic permutations 
+Is an anonymous letter constructible?
+Implement an ISBN cache
+Compute the LCA, optimizing for close ancestors 
+Find the nearest repeated entries in an array
+Find the smallest subarray covering all values
+Find smallest subarray sequentially covering all values
+Find the longest subarray with distinct entries
+Find the length of a longest contained interval
+Compute all string decompositions .
+Test the Collatz conjecture
+Implement a hash function for chess
+
+Recursion
+
+The Towers of Hanoi problem
+Generate all nonattacking placements of n-Queens 
+Generate permutations
+Generate the power set
+Generate all subsets of size k
+Generate strings of matched parens
+Generate palindromic decompositions
+Generate binary trees
+Implement a Sudoku solver
+Compute a Gray code
+
+
+Linked List 
+
+Merge two sorted lists - 82
+Reverse a single sublist - 85
+Test for cyclicity - 86
+Test for overlapping lists-lists are cycle-free - 87
+Test for overlapping lists-lists may have cycles - 88
+Delete a node from a singly linked list - 90
+Remove the kth last element from a list - 90
+Remove duplicates from a sorted list - 91
+Implement cyclic right shift for singly linked lists - 92
+Implement even-odd merge - 93
+Test whether a singly linked list is palindromic - 94
+Implement list pivoting - 95
+Add list-based integers - 96
+
+
